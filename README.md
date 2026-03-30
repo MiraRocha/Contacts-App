@@ -49,3 +49,6 @@ Contém as classes relacionadas com a persistência:
 
 - O uso de `suspend functions` no DAO garante que as operações de escrita/eliminação não congelem a interface.
 - O Hilt elimina a necessidade de criar manualmente fábricas de ViewModel (`ViewModelFactory`), tornando o código da `MainActivity` muito mais limpo.
+
+
+<img width="481" height="933" alt="Captura de ecrã 2026-03-30 144043" src="https://github.com/user-attachments/assets/4d45c7a9-7a7d-475b-84c7-8c6528f417ba" />
